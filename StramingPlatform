@@ -1,0 +1,1334 @@
+<!DOCTYPE >
+<html lang="en" id="htmlTag1" id="htmlTag2">
+
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="Homepage.css">
+  <link rel="stylesheet" href="HomePageAnimeInfoCardNameAnime.css">
+  <title>Home</title>
+
+</head>
+
+<body>
+
+  <div class="wrapper">
+
+    <header>
+
+
+      <div class="Container">
+        <div class="wrapper2">
+
+          <div class="start">
+
+
+
+            <div class="menu" onclick="myFunction(this)">
+              <div class="bar1"></div>
+              <div class="bar2"></div>
+              <div class="bar3"></div>
+
+              <div id="menu-toggle" class="menu-toggle">
+                <a href="HomePage.html">Home</a>
+
+                <a href="#">Gengre</a>
+
+                <a href="#">Type</a>
+              </div>
+            </div>
+
+
+            <div class="Logo">
+              <a href="#">HorribleSubs</a>
+            </div>
+
+            <div class="searchbar">
+              <form role="search" id="form">
+                <input type="search" id="query" name="q" placeholder="Search..." aria-label="Search through site content">
+                <button>
+                  <svg viewBox="0 0 1024 1024">
+                    <path class="path1" d="M848.471 928l-263.059-263.059c-48.941 36.706-110.118 55.059-177.412 55.059-171.294 0-312-140.706-312-312s140.706-312 312-312c171.294 0 312 140.706 312 312 0 67.294-24.471 128.471-55.059 177.412l263.059 263.059-79.529 79.529zM189.623 408.078c0 121.364 97.091 218.455 218.455 218.455s218.455-97.091 218.455-218.455c0-121.364-103.159-218.455-218.455-218.455-121.364 0-218.455 97.091-218.455 218.455z"></path>
+                  </svg>
+                </button>
+              </form>
+            </div>
+
+            <div class="lang">
+
+            <div class="eng" onclick="changeLanguageToEng()">
+              <button type="button" name="button">EN</button>
+            </div>
+
+            <div class="jap" onclick="changeLanguageToJapanese()">
+              <button type="button" name="button">JP</button>
+            </div>
+
+            </div>
+
+            <div class="end" >
+
+              <div class="SignUp">
+                <button type="button" name="button"> Sign Up
+                  <svg style="color: rgb(58, 55, 210);" width="25" height="32" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z" fill="#3a37d2"></path>
+                  </svg>
+                </button>
+                <a href="#"></a>
+              </div>
+
+
+              <div class="profile">
+                <a href="Profile.html">
+                  <img src="Lyffy-1.jfif" alt="">
+                </a>
+              </div>
+
+
+            </div>
+
+          </div>
+
+
+        </div>
+
+      </div>
+
+    </header>
+
+  </div>
+
+  <div class="content">
+
+    <div class=" slidescreen">
+      <div class=" animeinfo">
+
+        <div id="slides1" class="slide">
+          <span class="slide__text">Kage no Jitsuryokusha ni Naritakute</span>
+          <span class="slide__text2" id="slide__text2">
+            For as long as he can remember, Minoru Kagenou has been fixated on becoming as strong as possible,
+            which has led him to undertake all kinds of rigorous training. This wish, however, does not stem from a desire to be recognized by others; rather,
+            Minoru does everything he can to blend in with the crowd. So, while pretending to be a completely average student during the day, he arms himself with a crowbar and ruthlessly thrashes local biker gangs at night.
+            Yet when Minoru finds himself in a truck accident, his ambitions seemingly come to a sudden end. In his final moments,
+            he laments his powerlessness—no matter how much he trained, there was nothing he could do to overcome his human limitations.But instead of dying, Minoru reawakens as Cid,
+            the second child of the noble Kagenou family, in another world—one where magic is commonplace.
+            With the power he so desired finally within his grasp, he dons the moniker "Shadow" and establishes Shadow Garden: a group whose sole purpose is to combat the enigmatic Cult of Diablos,
+            an organization born from Cid's imagination. However, as Shadow Garden grows in both membership and influence,
+            it becomes increasingly apparent that the Cult of Diablos is not as fictional as Cid had intended.
+          </span>
+
+          <div class="img">
+            <img src="Kage no Jitsuryokusha ni Naritakute\Kage no Jitsuryokusha ni Naritakute2.jpg" alt="">
+          </div>
+          <div class="playnow">
+            <a href="KagenoJitsuryokushaniNaritakutehome.html">
+              <button type="button" name="button">Play now</button>
+            </a>
+          </div>
+          <a class="slide__prev" href="#slides__4" title="Next"></a>
+          <a class="slide__next" href="#slides__2" title="Next"></a>
+        </div>
+
+
+        <div id="slides1" class="slide">
+          <span class="slide__text">Attack On Titan</span>
+          <span class="slide__text2" id="slide__text2">
+            Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called Titans, forcing humans to hide in fear behind enormous concentric walls.
+            What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival,
+            the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter.
+            However, that fragile calm is soon shattered when a colossal Titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.
+            After witnessing a horrific personal loss at the hands of the invading creatures, Eren Yeager dedicates his life to their eradication by enlisting into the Survey Corps,
+            an elite military unit that combats the merciless humanoids outside the protection of the walls. Eren, his adopted sister Mikasa Ackerman,
+            and his childhood friend Armin Arlert join the brutal war against the Titans and race to discover a way of defeating them before the last walls are breached.
+          </span>
+
+          <div class="img">
+            <img src="Attack On Titan\Attack-On-Titan3.jpg" alt="">
+          </div>
+          <div class="playnow">
+            <button type="button" name="button">Play now</button>
+            <a href="#"></a>
+          </div>
+          <a class="slide__prev" href="#slides__1" title="Prev"></a>
+          <a class="slide__next" href="#slides__3" title="Next"></a>
+        </div>
+
+
+        <div id="slides1" class="slide">
+          <span class="slide__text">Spy x Family</span>
+          <span class="slide__text2" id="slide__text2">
+            Corrupt politicians, frenzied nationalists, and other warmongering forces constantly jeopardize the thin veneer of peace between neighboring countries Ostania and Westalis.
+            In spite of their plots, renowned spy and master of disguise "Twilight" fulfills dangerous missions one after another in the hope that no child will have to experience the horrors of war.
+            In the bustling Ostanian city of Berlint, Twilight dons the alias of "Loid Forger," an esteemed psychiatrist. However, his true intention is to gather intelligence on prominent politician Donovan Desmond,
+            who only appears rarely in public at his sons' school: the prestigious Eden Academy. Enlisting the help of unmarried city hall clerk Yor Briar to act as his wife and adopting the curious six-year-old orphan Anya as his daughter,
+            Loid enacts his master plan. He will enroll Anya in Eden Academy, where Loid hopes she will excel and give him the opportunity to meet Donovan without arousing suspicion.
+            Unfortunately for Loid, even a man of his talents has trouble playing the figure of a loving father and husband. And just like Loid is hiding his true identity,
+            Yor—who is an underground assassin known as "Thorn Princess"—and Anya—an esper who can read people's minds—have no plans to disclose their own secrets either.
+            Although this picture-perfect family is founded on deception.
+          </span>
+
+          <div class="img">
+            <img src="Spy x Family\Spy x Family2.jpg" alt="">
+          </div>
+          <div class="playnow">
+            <button type="button" name="button">Play now</button>
+            <a href="#"></a>
+          </div>
+          <a class="slide__prev" href="#slides__2" title="Prev"></a>
+          <a class="slide__next" href="#slides__4" title="Next"></a>
+        </div>
+
+
+        <div id="slides1" class="slide">
+          <span class="slide__text">Tensei Shitara Slime Datta Ken</span>
+          <span class="slide__text2" id="slide__text2">
+            Thirty-seven-year-old Satoru Mikami is a typical corporate worker,
+            who is perfectly content with his monotonous lifestyle in Tokyo, other than failing to nail down a girlfriend even once throughout his life.
+            In the midst of a casual encounter with his colleague, he falls victim to a random assailant on the streets and is stabbed. However, while succumbing to his injuries,
+            a peculiar voice echoes in his mind, and recites a bunch of commands which the dying man cannot make sense of.When Satoru regains consciousness,
+            he discovers that he has reincarnated as a goop of slime in an unfamiliar realm. In doing so, he acquires newfound skills—notably, the power to devour anything and mimic its appearance and abilities.
+            He then stumbles upon the sealed Catastrophe-level monster "Storm Dragon" Veldora who had been sealed away for the past 300 years for devastating a town to ashes. Sympathetic to his predicament,
+            Satoru befriends him, promising to assist in destroying the seal. In return, Veldora bestows upon him the name Rimuru Tempest to grant him divine protection.Now, liberated from the mundanities of his past life,
+            Rimuru embarks on a fresh journey with a distinct goal in mind. As he grows accustomed to his new physique, his gooey antics ripple throughout the world, gradually altering his fate.
+          </span>
+
+
+          <div class="img">
+            <img src="Tensei Shitara Slime Datta Ken\Tensei Shitara Slime Datta Ken3.jpg" alt="">
+          </div>
+          <div class="playnow">
+            <button type="button" name="button">Play now</button>
+            <a href="#"></a>
+          </div>
+          <a class="slide__prev" href="#slides__3" title="Prev"></a>
+          <a class="slide__next" href="#slides__1" title="Prev"></a>
+        </div>
+
+      </div>
+
+      <div class="slider__nav">
+        <a class="slider__navlink" href="#slides__1"></a>
+        <a class="slider__navlink" href="#slides__2"></a>
+        <a class="slider__navlink" href="#slides__3"></a>
+        <a class="slider__navlink" href="#slides__4"></a>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="content2">
+
+    <div class="animeinfo2">
+
+      <!--1 -->
+      <div class="animecard">
+        <a href="#"></a>
+        <img src="Spy x Family\Spy x Family.jpg" alt="">
+
+        <div class="infocard">
+          <div class="infocard2">
+
+            <a href="#"></a>
+
+            <div class="eposideEng">
+              <img src="subtitle.png" alt=""><span>12</span>
+            </div>
+
+            <div class="eposideJp">
+              <img src="mic.jpg" alt=""><span>12</span>
+            </div>
+
+            <div class="type">
+              <span>tv</span>
+            </div>
+          </div>
+        </div>
+
+        <div id="one" class="text-container">
+          <span>Spy x Family</span>
+          <div class="fader fader-left"></div>
+          <div class="fader fader-right"></div>
+        </div>
+
+      </div>
+
+      <!--2 -->
+      <div class="animecard">
+        <a href="KagenoJitsuryokushaniNaritakutehome.html">
+          <img src="Kage no Jitsuryokusha ni Naritakute\Kage no Jitsuryokusha ni Naritakute.jpg" alt="">
+          <div class="infocard">
+            <a href="KagenoJitsuryokushaniNaritakutehome.html">
+              <div class="infocard2">
+
+
+
+                <div class="eposideEng">
+                  <img src="subtitle.png" alt=""><span>20</span>
+                </div>
+
+                <div class="eposideJp">
+                  <img src="mic.jpg" alt=""><span>20</span>
+                </div>
+
+                <div class="type">
+                  <span>tv</span>
+                </div>
+
+              </div>
+            </a>
+          </div>
+
+          <div id="one" class="text-container">
+            <span>Kage no Jitsuryokusha ni Naritakute</span>
+            <div class="fader fader-left"></div>
+            <div class="fader fader-right"></div>
+          </div>
+        </a>
+      </div>
+
+      <!--3 -->
+      <div class="animecard">
+        <a href="#"></a>
+        <img src="Tensei Shitara Slime Datta Ken\Tensei Shitara Slime Datta Ken.jpg" alt="">
+
+        <div class="infocard">
+          <div class="infocard2">
+
+            <a href="#"></a>
+
+            <div class="eposideEng">
+              <img src="subtitle.png" alt=""><span>24</span>
+            </div>
+
+            <div class="eposideJp">
+              <img src="mic.jpg" alt=""><span>24</span>
+            </div>
+
+            <div class="type">
+              <span>tv</span>
+            </div>
+
+          </div>
+        </div>
+
+        <div id="one" class="text-container">
+          <span>Tensei Shitara Slime Datta Ken</span>
+          <div class="fader fader-left"></div>
+          <div class="fader fader-right"></div>
+        </div>
+
+      </div>
+
+      <!--4 -->
+      <div class="animecard">
+        <a href="#"></a>
+        <img src="Attack On Titan\Attack-On-Titan.jpg" alt="">
+
+        <div class="infocard">
+          <div class="infocard2">
+
+            <a href="#"></a>
+
+            <div class="eposideEng">
+              <img src="subtitle.png" alt=""><span>12</span>
+            </div>
+
+            <div class="eposideJp">
+              <img src="mic.jpg" alt=""><span>12</span>
+            </div>
+
+            <div class="type">
+              <span>tv</span>
+            </div>
+
+          </div>
+        </div>
+
+        <div id="one" class="text-container">
+          <span>Attack On Titan</span>
+          <div class="fader fader-left"></div>
+          <div class="fader fader-right"></div>
+        </div>
+
+      </div>
+
+
+      <!--5 -->
+      <div class="animecard">
+        <a href="#"></a>
+        <img src=" Bleach\Bleach.jpg" alt="">
+
+        <div class="infocard">
+          <div class="infocard2">
+
+            <a href="#"></a>
+
+            <div class="eposideEng">
+              <img src="subtitle.png" alt=""><span>12</span>
+            </div>
+
+            <div class="eposideJp">
+              <img src="mic.jpg" alt=""><span>12</span>
+            </div>
+
+            <div class="type">
+              <span>tv</span>
+            </div>
+
+          </div>
+        </div>
+
+        <div id="one" class="text-container">
+          <span> Bleach</span>
+          <div class="fader fader-left"></div>
+          <div class="fader fader-right"></div>
+        </div>
+
+      </div>
+
+      <!--6 -->
+      <div class="animecard">
+        <a href="#"></a>
+        <img src="Otaku Ni Koi Wa Muzukashii\Otaku Ni Koi Wa Muzukashii.jpg " alt="">
+
+        <div class="infocard">
+          <div class="infocard2">
+
+            <a href="#"></a>
+
+            <div class="eposideEng">
+              <img src="subtitle.png" alt=""><span>12</span>
+            </div>
+
+            <div class="eposideJp">
+              <img src="mic.jpg" alt=""><span>12</span>
+            </div>
+
+            <div class="type">
+              <span>tv</span>
+            </div>
+
+          </div>
+        </div>
+
+        <div id="one" class="text-container">
+          <span>Otaku Ni Koi Wa Muzukashii </span>
+          <div class="fader fader-left"></div>
+          <div class="fader fader-right"></div>
+        </div>
+
+      </div>
+      <!--7 -->
+      <div class="animecard">
+        <a href="#"></a>
+        <img src="Jujutsu Kaisen\Jujutsu Kaisen.jpg " alt="">
+
+        <div class="infocard">
+          <div class="infocard2">
+
+            <a href="#"></a>
+
+            <div class="eposideEng">
+              <img src="subtitle.png" alt=""><span>24</span>
+            </div>
+
+            <div class="eposideJp">
+              <img src="mic.jpg" alt=""><span>24</span>
+            </div>
+
+            <div class="type">
+              <span>tv</span>
+            </div>
+
+          </div>
+        </div>
+
+        <div id="one" class="text-container">
+          <span> Jujutsu Kaisen</span>
+          <div class="fader fader-left"></div>
+          <div class="fader fader-right"></div>
+        </div>
+      </div>
+
+      <!--8 -->
+      <div class="animecard">
+        <a href="#"></a>
+        <img src="One Punch Man\One Punch Man-vol1.jpg " alt="">
+
+        <div class="infocard">
+          <div class="infocard2">
+
+            <a href="#"></a>
+
+            <div class="eposideEng">
+              <img src="subtitle.png" alt=""><span>12</span>
+            </div>
+
+            <div class="eposideJp">
+              <img src="mic.jpg" alt=""><span>12</span>
+            </div>
+
+            <div class="type">
+              <span>tv</span>
+            </div>
+
+          </div>
+        </div>
+
+        <div id="one" class="text-container">
+          <span> One Punch Man</span>
+          <div class="fader fader-left"></div>
+          <div class="fader fader-right"></div>
+        </div>
+
+      </div>
+      <!--9 -->
+      <div class="animecard">
+        <a href="Swordartonlinehome.html">
+          <img src="Sword art Online\sword-art-online.jpg " alt="">
+          <div class="infocard">
+            <a href="Swordartonlinehome.html">
+            <div class="infocard2">
+                <div class="eposideEng">
+                  <img src="subtitle.png" alt=""><span>25</span>
+                </div>
+                <div class="eposideJp">
+                  <img src="mic.jpg" alt=""><span>25</span>
+                </div>
+                <div class="type">
+                  <span>tv</span>
+                </div>
+            </div>
+            </a>
+          </div>
+          <div id="one" class="text-container">
+            <span> Sword art Online</span>
+            <div class="fader fader-left"></div>
+            <div class="fader fader-right"></div>
+          </div>
+        </a>
+      </div>
+
+      <!--10 -->
+      <div class="animecard">
+        <a href="#"></a>
+        <img src=" Tsurune\Tsurune.jpg" alt="">
+
+        <div class="infocard">
+          <div class="infocard2">
+
+            <a href="#"></a>
+
+            <div class="eposideEng">
+              <img src="subtitle.png" alt=""><span>12</span>
+            </div>
+
+            <div class="eposideJp">
+              <img src="mic.jpg" alt=""><span>12</span>
+            </div>
+
+            <div class="type">
+              <span>tv</span>
+            </div>
+
+          </div>
+        </div>
+
+        <div id="one" class="text-container">
+          <span>Tsurune </span>
+          <div class="fader fader-left"></div>
+          <div class="fader fader-right"></div>
+        </div>
+      </div>
+
+      <!--11 -->
+      <div class="animecard">
+        <a href="#"></a>
+        <img src="In Spectre\In Spectre.jpg " alt="">
+
+        <div class="infocard">
+          <div class="infocard2">
+
+            <a href="#"></a>
+
+            <div class="eposideEng">
+              <img src="subtitle.png" alt=""><span>12</span>
+            </div>
+
+            <div class="eposideJp">
+              <img src="mic.jpg" alt=""><span>12</span>
+            </div>
+
+            <div class="type">
+              <span>tv</span>
+            </div>
+
+          </div>
+        </div>
+
+        <div id="one" class="text-container">
+          <span>In Spectre </span>
+          <div class="fader fader-left"></div>
+          <div class="fader fader-right"></div>
+        </div>
+      </div>
+
+      <!--12 -->
+      <div class="animecard">
+        <a href="#"></a>
+        <img src=" Farming Life in another World\Farming Life in another World.jpg" alt="">
+
+        <div class="infocard">
+          <div class="infocard2">
+
+            <a href="#"></a>
+
+            <div class="eposideEng">
+              <img src="subtitle.png" alt=""><span>12</span>
+            </div>
+
+            <div class="eposideJp">
+              <img src="mic.jpg" alt=""><span>12</span>
+            </div>
+
+            <div class="type">
+              <span>tv</span>
+            </div>
+
+          </div>
+        </div>
+
+        <div id="one" class="text-container">
+          <span>Farming Life in another World </span>
+          <div class="fader fader-left"></div>
+          <div class="fader fader-right"></div>
+        </div>
+      </div>
+
+      <!--13 -->
+      <div class="animecard">
+        <a href="#"></a>
+        <img src="Campfire Cooking in Another World with my Absurd Skill\Campfire Cooking in Another World with my Absurd Skill.jpg " alt="">
+
+        <div class="infocard">
+          <div class="infocard2">
+
+            <a href="#"></a>
+
+            <div class="eposideEng">
+              <img src="subtitle.png" alt=""><span>12</span>
+            </div>
+
+            <div class="eposideJp">
+              <img src="mic.jpg" alt=""><span>12</span>
+            </div>
+
+            <div class="type">
+              <span>tv</span>
+            </div>
+
+          </div>
+        </div>
+
+        <div id="one" class="text-container">
+          <span> Campfire Cooking in Another World with my Absurd Skill</span>
+          <div class="fader fader-left"></div>
+          <div class="fader fader-right"></div>
+        </div>
+      </div>
+
+      <!--14 -->
+      <div class="animecard">
+        <a href="#"></a>
+        <img src="Urusei Yatsura\Urusei Yatsura.jpg" alt="">
+
+        <div class="infocard">
+          <div class="infocard2">
+
+            <a href="#"></a>
+
+            <div class="eposideEng">
+              <img src="subtitle.png" alt=""><span>24</span>
+            </div>
+
+            <div class="eposideJp">
+              <img src="mic.jpg" alt=""><span>24</span>
+            </div>
+
+            <div class="type">
+              <span>tv</span>
+            </div>
+
+          </div>
+        </div>
+
+        <div id="one" class="text-container">
+          <span>Urusei Yatsura</span>
+          <div class="fader fader-left"></div>
+          <div class="fader fader-right"></div>
+        </div>
+      </div>
+
+      <!--15-->
+      <div class="animecard">
+        <a href="#"></a>
+        <img src="By The Grace of The Gods\By The Grace of The God.jpg" alt="">
+
+        <div class="infocard">
+          <div class="infocard2">
+
+            <a href="#"></a>
+
+            <div class="eposideEng">
+              <img src="subtitle.png" alt=""><span>12</span>
+            </div>
+
+            <div class="eposideJp">
+              <img src="mic.jpg" alt=""><span>12</span>
+            </div>
+
+            <div class="type">
+              <span>tv</span>
+            </div>
+
+          </div>
+        </div>
+
+        <div id="one" class="text-container">
+          <span>By The Grace of The Gods</span>
+          <div class="fader fader-left"></div>
+          <div class="fader fader-right"></div>
+        </div>
+      </div>
+
+      <!--16-->
+      <div class="animecard">
+        <a href="#"></a>
+        <img src=" Welcome to Demon School! Iruma-kun\Welcome to Demon School! Iruma-kun.jpg" alt="">
+
+        <div class="infocard">
+          <div class="infocard2">
+
+            <a href="#"></a>
+
+            <div class="eposideEng">
+              <img src="subtitle.png" alt=""><span>24</span>
+            </div>
+
+            <div class="eposideJp">
+              <img src="mic.jpg" alt=""><span>24</span>
+            </div>
+
+            <div class="type">
+              <span>tv</span>
+            </div>
+
+          </div>
+        </div>
+
+        <div id="one" class="text-container">
+          <span>Welcome to Demon School! Iruma-kun </span>
+          <div class="fader fader-left"></div>
+          <div class="fader fader-right"></div>
+        </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+    </div>
+  </div>
+
+
+
+  <script src="Homepage.js" charset="utf-8"></script>
+</body>
+
+</html>
+
+
+
+
+
+
+body {
+  background-color: black;
+}
+
+.wrapper {
+  display: flex;
+  position: sticky;
+  top: 0%;
+  z-index: 2;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.wrapper2 {
+display: flex;
+}
+
+.menu {
+  background-color: #555657;
+  color: white;
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.menu:hover .menu-toggle {
+  display: block;
+}
+
+.menu-toggle a:hover {
+  background-color: #a6a6a6;
+}
+
+.menu:hover .dropdown-content {
+  display: block;
+}
+
+.menu:hover .dropbtn {
+  background-color: white;
+}
+
+.menu-toggle a {
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.menu-toggle {
+  display: none;
+  position: absolute;
+  background-color: black;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.bar1, .bar2, .bar3 {
+  width: 35px;
+  height: 5px;
+  background-color: black;
+  margin: 6px 0;
+  transition: 0.4s;
+}
+
+/* Rotate first bar */
+.change .bar1 {
+  transform: rotate(-45deg) translate(-9px, 6px);
+}
+
+/* Fade out the second bar */
+.change .bar2 {
+  opacity: 0;
+}
+
+/* Rotate last bar */
+.change .bar3 {
+  transform: rotate(45deg) translate(-8px, -8px);
+}
+
+.dropdown-content {
+  display: none;
+}
+
+.Logo {
+  border: 4px;
+  border-radius: 6px;
+  position: absolute;
+  top: 5px;
+  left: 6%;
+  display: block;
+  font-size: 40px;
+}
+
+.Logo a {
+  text-decoration: none;
+}
+
+header {
+  width: 99.2%;
+  transition: .2s;
+  margin-bottom: 10px;
+  background-color: #555657;
+  position: absolute;
+}
+
+.Container {
+  display: flex;
+}
+
+.searchbar button {
+  all: unset;
+  cursor: pointer;
+  width: 44px;
+  height: 44px;
+}
+
+.searchbar svg {
+  color: #fff;
+  fill: currentColor;
+  width: 24px;
+  height: 24px;
+  padding: 10px;
+}
+
+.searchbar form {
+  background-color: grey;
+  width: 500px;
+  height: 44px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.searchbar input {
+  all: unset;
+  font: 16px system-ui;
+  color: #fff;
+  height: 100%;
+  width: 100%;
+  padding: 6px 10px;
+}
+
+::placeholder {
+  color: white;
+  opacity: 1;
+}
+
+.start {
+  display: flex;
+}
+
+.searchbar {
+  position: absolute;
+  top: 5px;
+  left: 20%;
+  height: 47px;
+  display: flex;
+}
+
+.fas {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: 2.375rem;
+  text-align: center;
+  pointer-events: none;
+  color: #aaa;
+}
+
+.end {
+  display: flex;
+  position: absolute;
+  top: 5px;
+  right: 30px;
+}
+
+.SignUp button {
+  display: none;
+  display: flex;
+  line-height: 35px;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: 300;
+  color: white;
+  width: 110px;
+  height: 40px;
+  background-color: #a319ff;
+}
+
+.profile img {
+  width: 50px;
+  height: 50px;
+  border-radius: 100px;
+}
+
+.content {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+}
+
+.slidescreen {
+  width: 100%;
+  height: 400px;
+  margin: 20px;
+  text-align: center;
+  border-radius: 20px;
+  overflow: hidden;
+  position: relative;
+  top: 5%;
+  scroll-snap-type: x mandatory;
+}
+
+.animeinfo {
+  display: flex;
+  overflow-x: scroll;
+  position: relative;
+  scroll-behavior: smooth;
+}
+
+.slide:nth-of-type(even) {
+  background-color: #0f0f0f;
+}
+
+.slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  width: 100%;
+  height: 400px;
+  scroll-snap-align: center;
+  margin-right: 0px;
+  box-sizing: border-box;
+  background: #0f0f0f;
+  transform-origin: center ;
+  transform: scale(1);
+  animation: slide 30s infinite;
+}
+
+
+
+@keyframes slide {
+  0% {
+    transform: translateX(0%);
+  }
+
+  50%{
+      transform: translateX(-100%);
+  }
+
+  75%{
+    transform: translateX(-200%);
+  }
+
+  100%{
+    transform: translateX(-300%);
+  }
+
+
+}
+
+.slide__text {
+  color: white;
+  position: absolute;
+  top: 15px;
+  left: 40px;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.slide__text2 {
+  overflow: hidden;
+  color: lightgrey;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  position: absolute;
+  cursor: pointer;
+  width: 660px;
+  top: 60px;
+  left: 50px;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: sans-serif;
+  border: 1px;
+}
+
+.slide__text2:hover{
+white-space: normal;
+overflow: visible;
+max-width: none;
+}
+
+
+.playnow {
+  position: absolute;
+  left: 200px;
+  bottom: 5px;
+}
+
+.playnow button {
+  border-radius: 5px;
+  color: white;
+  width: 200px;
+  height: 50px;
+  background-color: #8d4bb9;
+}
+
+.slide a {
+  background: none;
+  border: none;
+}
+
+a.slide__prev,
+.slidescreen::before {
+  transform: rotate(135deg);
+  transform: rotate(135deg);
+  left: 1%;
+}
+
+a.slide__next,
+.slidescreen::after {
+  transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  right: 1%;
+}
+
+.slidescreen::before,
+.slidescreen::after,
+.slide__prev,
+.slide__next {
+  position: absolute;
+  top: 48%;
+  width: 30px;
+  height: 30px;
+  border: solid black;
+  border-width: 0 4px 4px 0;
+  padding: 3px;
+  box-sizing: border-box;
+}
+
+.slidescreen::before,
+.slidescreen::after {
+  content: "";
+  z-index: 1;
+  background: none;
+  pointer-events: none;
+}
+
+.slider__nav {
+  box-sizing: border-box;
+  position: absolute;
+  bottom: 1%;
+  left: 50%;
+  width: 200px;
+  margin-left: -100px;
+  text-align: center;
+}
+
+
+
+.slider__navlink {
+  display: inline-block;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  background-color: purple;
+  margin: 0 10px 0 10px;
+}
+
+
+.img {
+  position: absolute;
+  right: 120px;
+  display: flex;
+  align-items: stretch;
+}
+
+.img img {
+  border-radius: 15px;
+  width: 600px;
+  height: 380px;
+}
+
+.content2 {
+  display: flex;
+  background-color: black;
+}
+
+
+.animecard{
+  background-color: black;
+  cursor: pointer;
+  border: 1px;
+  border-style: solid;
+  border-radius: 5px;
+  margin: 4px;
+  padding: 2px;
+  width: 200px;
+
+}
+
+.animeinfo2{
+  background-color: #0f0f0f;
+  border: 1px;
+  padding: 10px;
+  grid-template-rows: repeat(1, minmax(0, 1fr));
+  grid-template-columns: repeat(8, minmax(0, 2fr));
+  column-gap: 15px;
+  display: grid;
+}
+
+.animecard img{
+  width: 200px;
+  height: 300px;
+}
+
+.infocard{
+  display: flex;
+  height: 25px;
+  width: 200px;
+  cursor: pointer;
+  border-radius: 3px;
+  background-color: grey;
+  color: white;
+}
+
+.infocard a{
+  text-decoration: none;
+}
+
+.infocard2{
+  height: 25px;
+  width: 200px;
+  display: flex;
+  cursor: pointer;
+  border-radius: 3px;
+  background-color: grey;
+  color: white;
+}
+}
+
+.infocard span{
+  float: right;
+  cursor: pointer;
+  padding-right: 4px;
+  font-size: 16px;
+  font-weight:lighter;
+}
+
+.eposideEng{
+  display: flex;
+  border: 2px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 4px;
+  width: 40px;
+  align-items: center;
+  text-align: center;
+}
+
+.AnimeName{
+  padding: 2px;
+  color: white;
+  font-size: 18px;
+font-weight: 400;
+}
+
+.eposideEng span{
+  color: white;
+}
+
+
+.eposideJp{
+  display: flex;
+  border: 2px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 4px;
+  width: 40px;
+  align-items: center;
+  text-align: center;
+}
+
+
+.infocard2 img{
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+}
+
+
+.type{
+  border: 2px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 4px;
+  width: 15px;
+  height: 21.2px;
+  align-items: center;
+  text-align: center;
+}
+
+
+
+.lang{
+  position:absolute;
+  top: 25%;
+  left: 60%;
+  display: flex;
+}
+
+.eng{
+padding: 2px;
+}
+
+
+.eng button:active{
+  background-color: purple;
+}
+
+.jap{
+padding: 2px;
+}
+
+
+.jap button:active{
+  background-color: purple;
+}
+
+
+
+
+
+
+
+
+
+function myFunction(x) {
+    x.classList.toggle("change");
+
+    document.getElementById('menu-toggle').style.display = document.getElementById('menu-toggle').style.display =='block' ?   'none' : 'block';
+}
+
+
+
+
+
+let container = document.querySelectorAll(".text-container");
+let text = document.querySelectorAll(".text-container span");
+
+for (let i=0; i<container.length; i++) {
+  if (container[i].clientWidth < text[i].clientWidth) {
+    text[i].classList.add("animate");
+  }
+}
+
+
+
+
+
+
+
+
+
